@@ -1,0 +1,22 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Programming from Specifications and Formal Methods",
+    "section": "",
+    "text": "Preface\nThis is a Quarto book.\nTo learn more about Quarto books visit https://quarto.org/docs/books.",
+    "crumbs": [
+      "Preface"
+    ]
+  },
+  {
+    "objectID": "reading.html",
+    "href": "reading.html",
+    "title": "1  Reading List",
+    "section": "",
+    "text": "Program Construction and Verification. Backhouse\nSystematic Programming. Wirth\nA Method of Programming. Feijen, Dijkstra\nPredicate Calculus and Program Semantics. Dijkstra, Scholten\nStructured Programming. Dahl, Dijkstra, Hoare\nA Discipline of Programming. Dijkstra\nProgram Derivation - Development of Programs from Specifications. Dromey\nProgramming in the 1990s - An Introduction to Calculation of Programs. Cohen\nProgramming - the Derivation of Algorithms. Kaldewaij\nProgramming from Specifications. Morgan\nAlgorithmic Problem Solving. Backhouse\nProgram Construction - Calculating Implementations from Specifications. Backhouse\nSpecifying Software - A Hands-on Approach. Tennent\nInduction, Recursion, and Programming. Wand\nReasoned Programming. Broda\nEquations, Models, and Programs - a Mathematical Introduction to Computer Science. Myers.",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Reading List</span>"
+    ]
+  }
+]
