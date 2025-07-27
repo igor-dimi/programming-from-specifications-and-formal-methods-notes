@@ -6,6 +6,7 @@ book:
   author: "Igor Dimitrov"
   date: "5/17/2024"
   chapters:
+    - reading.qmd
     - index.qmd
   page-navigation: true
 

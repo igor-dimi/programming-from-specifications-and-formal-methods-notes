@@ -1,0 +1,21 @@
+---
+title: Reading List
+---
+
+
+* Program Construction and Verification. Backhouse
+* Systematic Programming. Wirth
+* A Method of Programming. Feijen, Dijkstra
+* Predicate Calculus and Program Semantics. Dijkstra, Scholten
+* Structured Programming. Dahl, Dijkstra, Hoare
+* A Discipline of Programming. Dijkstra
+* Program Derivation - Development of Programs from Specifications. Dromey
+* Programming in the 1990s - An Introduction to Calculation of Programs. Cohen
+* Programming - the Derivation of Algorithms. Kaldewaij
+* Programming from Specifications. Morgan
+* Algorithmic Problem Solving. Backhouse
+* Program Construction - Calculating Implementations from Specifications. Backhouse
+* Specifying Software - A Hands-on Approach. Tennent
+* Induction, Recursion, and Programming. Wand
+* Reasoned Programming. Broda
+* Equations, Models, and Programs - a Mathematical Introduction to Computer Science. Myers. 
