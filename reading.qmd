@@ -2,6 +2,7 @@
 title: Reading List
 ---
 
+## Intro
 
 * Program Construction and Verification. Backhouse
 * Systematic Programming. Wirth
@@ -19,3 +20,68 @@ title: Reading List
 * Induction, Recursion, and Programming. Wand
 * Reasoned Programming. Broda
 * Equations, Models, and Programs - a Mathematical Introduction to Computer Science. Myers. 
+* Guarded Command Language - A Short Description. Power
+* Program Proofs. Rustan, Leino
+* Effective Theories in Programming Practice. Misra
+* Small Programming Exercises. Rem
+
+## 
+
+* Mathematical Theory of Program Correctness. de Bakker
+* Refinement Calculus - A Systematic Approach. Back, von Wright
+* The B-Book - Assigning Programs to Meanings. Abrial
+
+## Formal Methods in SE
+
+* Specification and Transformation of Programs - A Formal Approach to Software Development. Partsch
+* Formal Software Development - From VDM to Java. Charatan, Kans
+* Formal Object-Oriented Development. Kevin Lano
+* The B Language and Method - A Guide to Practical Formal Development. K Lano
+* Software Abstractions. Logic, Language, and Analysis. Daniel Jackson
+* Model-Based Software Testing and Analysis with C#. Jacky et al
+
+### VDM
+
+* Formal Specification and Design. Feijs, Jonkers
+* Validated Designs for Object-Oriented Systems. Fitzgerald et al
+* Modelling Systems - Practical Tools and Techniques in Software Development. Fitzgerald, Larsen
+* Systematic Software Development Using VDM. Cliff Jones
+
+### Z
+
+* Using Z - Specification, Refinement, and Proof. Woodcock, Davies
+* Formal Specification and Documentation using Z: A Case Study Approach. Jonthan Bowen
+* The Way of Z - Practical Programming with Formal Methods. Jonathan Jacky
+
+## Articles
+
+* Proving Program Refinements and Transformations (1989). Ward
+* Loop Invariants: Analysis, Classification, and Examples. Furia, Meyer, Velder
+* Well-founded Induction and the Invariance Theorem for Loops. Morris
+* Laws of Data Refinement. Morris
+* A Theoretical Basis for Stepwise Refinement and the Programming Calculus. Morris
+* Programming as a Mathematical Exercise. Abrial, Shepherdson, Hillmore, Constable
+* A Weaker Precondition for Loops. Boom
+* Predicative Programming Part I & II. Hehner
+* Programs are Predicates. Hoare
+* Invariant Based Programming: Basic Approach and Teaching Experiences. Ralph Back
+* Data Refinement of Invariant Based Programs. Preoteasa, Ralph Back
+* Structured Calculational Proof. Ralph Back, Jim Grundy, von Wright
+* Structured Derivations: A Unified Proof Style for Teaching Mathematics. Ralph Back
+* Invariant Diagrams with Data Refinement. Ralph Back
+* Program Derivation by Fixed Point Computation. Jiazhen Cai, Robert Paige
+* Ten Years of Hoare's Logic: A Survey - Part I & II. Apt
+* The Axiomatic Semantics of Programs Based on Hoare's Logic. Bergstra, Tucker
+
+### Pointer Programs
+
+* Applying Light-Weight Theorem Proving to Debugging and Verifying Pointer Programs. Ranise
+* Verifying Reachability Invariants of Linked Structures. Nelson
+* Proving Pointer Programs in Higher-Order Logic. Mehta, Nipkow
+* Derivation of Graph and Pointer Algorithms. Moeller
+* A Framework for Program Verification in the Context of Linked Structures and Pointer Variables
+* Completeness and Expressiveness of Pinter Program Verification by Separation Logic. Tatsuta, Chin, Al Ameen
+* Calculating a Garbage Collector. Berger, Meixner, Moeller
+* Calculating with Pointers. Bijlsma
+* Towards Pointer Algebra. Moeller
+* 
